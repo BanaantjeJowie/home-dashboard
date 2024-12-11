@@ -1,0 +1,311 @@
+{
+    "devices_status": {
+        "3ce90ed72d3d": {
+            "has_update": false,
+            "getinfo": {
+                "fw_info": {
+                    "device": "shellyplug-s-3CE90ED72D3D",
+                    "fw": "20230913-113421/v1.14.0-gcb84623"
+                }
+            },
+            "cloud": {
+                "enabled": true,
+                "connected": true
+            },
+            "uptime": 6562,
+            "temperature": 33.14,
+            "wifi_sta": {
+                "connected": true,
+                "ssid": "devbit",
+                "ip": "10.10.2.57",
+                "rssi": -44
+            },
+            "overtemperature": false,
+            "update": {
+                "status": "idle",
+                "has_update": false,
+                "new_version": "20230913-113421/v1.14.0-gcb84623",
+                "old_version": "20230913-113421/v1.14.0-gcb84623",
+                "beta_version": "20231107-164219/v1.14.1-rc1-g0617c15"
+            },
+            "relays": [
+                {
+                    "ison": true,
+                    "has_timer": false,
+                    "timer_started": 0,
+                    "timer_duration": 0,
+                    "timer_remaining": 0,
+                    "overpower": false,
+                    "source": "http"
+                }
+            ],
+            "unixtime": 1732184204,
+            "actions_stats": {
+                "skipped": 0
+            },
+            "mqtt": {
+                "connected": false
+            },
+            "fs_size": 233681,
+            "fs_free": 166413,
+            "ram_total": 52056,
+            "ram_free": 41120,
+            "time": "11:16",
+            "tmp": {
+                "tC": 33.14,
+                "tF": 91.64,
+                "is_valid": true
+            },
+            "mac": "3CE90ED72D3D",
+            "serial": 180,
+            "meters": [
+                {
+                    "power": 0,
+                    "overpower": 0,
+                    "is_valid": true,
+                    "timestamp": 1732187804,
+                    "counters": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "total": 6
+                }
+            ],
+            "_updated": "2024-11-21 10:16:44",
+            "cfg_changed_cnt": 0,
+            "_dev_info": {
+                "id": "3ce90ed72d3d",
+                "gen": "G1",
+                "code": "SHPLG-S",
+                "online": true
+            }
+        },
+        "c8c9a3b94301": {
+            "uptime": 6389,
+            "fs_size": 233681,
+            "update": {
+                "status": "pending",
+                "has_update": true,
+                "new_version": "20230913-113421/v1.14.0-gcb84623",
+                "old_version": "20220627-131242/v1.11.8-6-g09c98037f-plug-s-selftest-calibration",
+                "beta_version": "20231107-164219/v1.14.1-rc1-g0617c15"
+            },
+            "mac": "C8C9A3B94301",
+            "has_update": true,
+            "mqtt": {
+                "connected": false
+            },
+            "_updated": "2024-11-21 10:16:09",
+            "fs_free": 166664,
+            "ram_total": 51200,
+            "relays": [
+                {
+                    "ison": false,
+                    "has_timer": false,
+                    "timer_started": 0,
+                    "timer_duration": 0,
+                    "timer_remaining": 0,
+                    "overpower": false,
+                    "source": "http"
+                }
+            ],
+            "cfg_changed_cnt": 2,
+            "time": "11:13",
+            "temperature": 32.54,
+            "unixtime": 1732184031,
+            "cloud": {
+                "enabled": true,
+                "connected": true
+            },
+            "ram_free": 40036,
+            "tmp": {
+                "tC": 32.54,
+                "tF": 90.57,
+                "is_valid": true
+            },
+            "overtemperature": false,
+            "meters": [
+                {
+                    "power": 0,
+                    "overpower": 0,
+                    "is_valid": true,
+                    "timestamp": 1732187769,
+                    "counters": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "total": 0
+                }
+            ],
+            "actions_stats": {
+                "skipped": 0
+            },
+            "serial": 75,
+            "wifi_sta": {
+                "connected": true,
+                "ssid": "devbit",
+                "ip": "10.10.2.58",
+                "rssi": -46
+            },
+            "_dev_info": {
+                "id": "c8c9a3b94301",
+                "gen": "G1",
+                "code": "SHPLG-S",
+                "online": true
+            }
+        },
+        "c8c9a3b87269": {
+            "has_update": true,
+            "cloud": {
+                "enabled": true,
+                "connected": true
+            },
+            "uptime": 2691,
+            "temperature": 34.48,
+            "wifi_sta": {
+                "connected": true,
+                "ssid": "devbit",
+                "ip": "10.10.2.59",
+                "rssi": -42
+            },
+            "overtemperature": false,
+            "update": {
+                "status": "pending",
+                "has_update": true,
+                "new_version": "20230913-113421/v1.14.0-gcb84623",
+                "old_version": "20220627-131242/v1.11.8-6-g09c98037f-plug-s-selftest-calibration",
+                "beta_version": "20231107-164219/v1.14.1-rc1-g0617c15"
+            },
+            "relays": [
+                {
+                    "ison": false,
+                    "has_timer": false,
+                    "timer_started": 0,
+                    "timer_duration": 0,
+                    "timer_remaining": 0,
+                    "overpower": false,
+                    "source": "http"
+                }
+            ],
+            "unixtime": 1732184032,
+            "actions_stats": {
+                "skipped": 0
+            },
+            "mqtt": {
+                "connected": false
+            },
+            "fs_size": 233681,
+            "fs_free": 166915,
+            "ram_total": 51200,
+            "ram_free": 39080,
+            "time": "11:13",
+            "tmp": {
+                "tC": 34.48,
+                "tF": 94.06,
+                "is_valid": true
+            },
+            "mac": "C8C9A3B87269",
+            "serial": 71,
+            "meters": [
+                {
+                    "power": 0,
+                    "overpower": 0,
+                    "is_valid": true,
+                    "timestamp": 1732187776,
+                    "counters": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "total": 0
+                }
+            ],
+            "_updated": "2024-11-21 10:16:16",
+            "cfg_changed_cnt": 2,
+            "_dev_info": {
+                "id": "c8c9a3b87269",
+                "gen": "G1",
+                "code": "SHPLG-S",
+                "online": true
+            }
+        },
+        "3ce90ed78b01": {
+            "has_update": true,
+            "cloud": {
+                "enabled": true,
+                "connected": true
+            },
+            "uptime": 6393,
+            "temperature": 34.74,
+            "wifi_sta": {
+                "connected": true,
+                "ssid": "devbit",
+                "ip": "10.10.2.14",
+                "rssi": -38
+            },
+            "overtemperature": false,
+            "update": {
+                "status": "pending",
+                "has_update": true,
+                "new_version": "20230913-113421/v1.14.0-gcb84623",
+                "old_version": "20220627-131242/v1.11.8-6-g09c98037f-plug-s-selftest-calibration",
+                "beta_version": "20231107-164219/v1.14.1-rc1-g0617c15"
+            },
+            "relays": [
+                {
+                    "ison": false,
+                    "has_timer": false,
+                    "timer_started": 0,
+                    "timer_duration": 0,
+                    "timer_remaining": 0,
+                    "overpower": false,
+                    "source": "http"
+                }
+            ],
+            "unixtime": 1732184034,
+            "actions_stats": {
+                "skipped": 0
+            },
+            "mqtt": {
+                "connected": false
+            },
+            "fs_size": 233681,
+            "fs_free": 166915,
+            "ram_total": 51200,
+            "ram_free": 39368,
+            "time": "11:13",
+            "tmp": {
+                "tC": 34.74,
+                "tF": 94.53,
+                "is_valid": true
+            },
+            "mac": "3CE90ED78B01",
+            "serial": 148,
+            "meters": [
+                {
+                    "power": 0,
+                    "overpower": 0,
+                    "is_valid": true,
+                    "timestamp": 1732187774,
+                    "counters": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "total": 0
+                }
+            ],
+            "_updated": "2024-11-21 10:16:13",
+            "cfg_changed_cnt": 4,
+            "_dev_info": {
+                "id": "3ce90ed78b01",
+                "gen": "G1",
+                "code": "SHPLG-S",
+                "online": true
+            }
+        }
+    },
+    "pending_notifications": {}
+}
